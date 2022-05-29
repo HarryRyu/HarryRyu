@@ -1,7 +1,11 @@
-### Hi 👋 Welcome to my Github
+### Hi 👋 I'm Harry Ryu
 
-![](https://visitor-badge.glitch.me/badge?page_id=HarryRyu.HarryRyu)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarryRyu" alt="HarryRyu" /> </p>
 
+Welcome to my Github, I'm currently a fourth year undergrad studying Computer Engineering at the University of Waterloo.
+
+- 🌱 I’m currently learning Numpy, Panda and Tensorflow
+- 
 <!--
 **HarryRyu/HarryRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
