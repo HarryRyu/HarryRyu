@@ -6,7 +6,7 @@ Welcome, I'm a fourth year undergrad studying Computer Engineering at the Univer
 
 - 🔭 I’m currently working on
 - 🌱 I’m currently learning **Numpy**, **Panda** and **Tensorflow**
-- 
+- 💡 I love innovation and new technologies
 <!--
 **HarryRyu/HarryRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
