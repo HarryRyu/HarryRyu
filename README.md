@@ -22,13 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/HarryRyu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarryRyu&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/HarryRyu/HarryRyu.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarryRyu&repo=HarryRyu.github.io&theme=buefy" />
-</a>
-
 <!--   Stats -->
 ### 📊 GitHub Stats:
 ![Harry's github stats](https://github-readme-stats.vercel.app/api?username=harryryu&theme=nord&show_icons=true&count_private=true)
