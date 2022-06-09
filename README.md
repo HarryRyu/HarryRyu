@@ -8,21 +8,10 @@ Welcome, I'm a fourth year undergrad studying Computer Engineering at the Univer
 - 🌱 I’m currently learning **Numpy**, **Panda** and **Tensorflow**
 - 💡 I love innovation and new technologies
 
-<br />
-<br />
-
 <!--   Stats -->
 ### 📊 GitHub Stats:
 ![Harry's github stats](https://github-readme-stats.vercel.app/api?username=harryryu&theme=nord&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harryryu&theme=nord&layout=compact)  
-
-  
-  
-<!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harryryu&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harryryu&theme=nord_dark)
-
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
