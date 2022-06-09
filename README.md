@@ -4,13 +4,12 @@
 
 Welcome, I'm a fourth year undergrad studying Computer Engineering at the University of Waterloo. Background in web development, backend and infrastructure. 
 
-- 🔭 I’m currently working on
 - 🌱 I’m currently learning **Numpy**, **Panda** and **Tensorflow**
 - 💡 I love innovation and new technologies
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-![Harry's github stats](https://github-readme-stats.vercel.app/api?username=harryryu&theme=nord&include_all_commits=true&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=harryryu&theme=nord&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harryryu&theme=nord&layout=compact)  
 
 <!--   GitHub stats graph -->
