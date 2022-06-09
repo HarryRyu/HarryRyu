@@ -8,14 +8,19 @@ Welcome, I'm a fourth year undergrad studying Computer Engineering at the Univer
 - 💡 I love innovation and new technologies
 
 #### Languages and tools:
-![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
-![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
-![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![terraform](https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
-![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+![Golang](https://img.shields.io/badge/-Golang-8fcfd1?style=plastic&logo=Golang)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)  
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
