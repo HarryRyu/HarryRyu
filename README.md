@@ -27,6 +27,8 @@ Welcome, I'm a fourth year undergrad studying Computer Engineering at the Univer
 <!--   Stats -->
 ### 📊 GitHub Stats:
 ![Harry's github stats](https://github-readme-stats.vercel.app/api?username=harryryu&theme=nord&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harryryu&layout=compact&theme=gotham&custom_title=Statistics)  
+
   
   
 <!--   Top Languages Using -->
