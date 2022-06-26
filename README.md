@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarryRyu" alt="HarryRyu" /> </p>
 
-Welcome, I'm a fourth year undergrad studying Computer Engineering at the University of Waterloo. Background in web development, backend and infrastructure. 
+Hi, I'm a third year undergrad studying Computer Engineering at the University of Waterloo. Background in cloud engineering, web development, backend and infrastructure. 
 
 - 🌱 I’m currently learning **Numpy**, **Panda** and **Tensorflow**
 - 💡 I love innovation and new technologies
